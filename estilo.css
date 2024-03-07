@@ -9,7 +9,20 @@ body{
 }
 
 .cabecalho{
+   
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
+
+.lista-item{
+    display: inline-block;
+    font-size: 24px;
+    margin: 0 16px;
+    margin-right: 100px;
 }
