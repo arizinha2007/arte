@@ -32,9 +32,10 @@ body{
    align-items: center;
    justify-content: center;
    padding:24px 0;
+   font-size: 30px;
 }
 
 .secao1-div{
    width: 35%;
-   font-size: 30px;
+   
 }
