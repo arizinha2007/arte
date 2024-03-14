@@ -30,5 +30,10 @@ body{
 .secao1{
    display:flex;
    align-items: center;
+   justify-content: center;
+   padding:24px 0;
+}
 
+.secao1-div{
+   width: 35%;
 }
