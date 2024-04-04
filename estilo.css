@@ -36,6 +36,27 @@ body{
 }
 
 .secao1-div{
-   width: 35%;
-   
+   width: 20%;
+   height: 20;
+}
+
+
+
+
+
+
+
+
+
+.secao2{
+ background-color: aliceblue;
+text-align: center;
+font-size: 30px;
+
+
+}
+.secao2-todos-estudantes{
+
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%
 }
